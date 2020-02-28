@@ -12,7 +12,7 @@ sudo update-rc.d -f openvpn remove
 
 sudo mkdir /home/pi/Python_OpenVPN
 
-Mettre votre fichier de configuration dans /home/pi/Python_OpenVPN et nommer le config.ovpn
+2 - Mettre votre fichier de configuration dans /home/pi/Python_OpenVPN et nommer le config.ovpn
 
 Importation du code sur la pi :
 
