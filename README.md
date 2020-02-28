@@ -10,14 +10,13 @@ sudo apt install openvpn
 
 sudo update-rc.d -f openvpn remove
 
-
-2 - Mettre votre fichier de configuration dans /home/pi/Python_OpenVPN et nommer le config.ovpn
-
-Importation du code sur la pi :
+2 - Importation du code sur la pi :
 
 sudo apt-get install git
 
-sudo git clone github.com/domosolution67/Python_OpenVPN /home/pi/Python_OpenVPN
+sudo git clone https://github.com/domosolution67/Python_OpenVPN /home/pi/Python_OpenVPN
+
+Mettre votre fichier de configuration dans /home/pi/Python_OpenVPN et nommer le config.ovpn
 
 Pour lancer la connexion au VPN :
 
