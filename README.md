@@ -1,5 +1,7 @@
 Code pour la connection d'une raspberry pi à un serveur openvpn. Lors de l'utilisation de la pi en version lite (sans desktop), se code vous permettra de vous connecter à votre serveur.
+
 1 - Installation de OpenVPN sur la pi
+
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt install openvpn
