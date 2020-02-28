@@ -17,7 +17,7 @@ Importation du code sur la pi :
 
 sudo apt-get install git
 
-git clone github.com/domosolution67/Python_OpenVPN /home/pi/Python_OpenVPN
+sudo git clone github.com/domosolution67/Python_OpenVPN /home/pi/Python_OpenVPN
 
 Pour lancer la connexion au VPN :
 
